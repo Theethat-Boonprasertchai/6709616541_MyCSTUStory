@@ -47,6 +47,41 @@ header {
     
 }
 
+.year{
+        color: #1f1266;
+        font-size: 55px;
+}
+
+.info2 {
+    font-family: "K2D", system-ui;
+    width: 900px; 
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 8px 5px 15px 5px hsl(226, 58%, 16%); 
+    border-radius: 10px;   
+    margin: auto; 
+    margin-bottom: 20px; 
+    text-align: center;
+    }
+
+
+ .info3 {
+    font-family: "K2D", system-ui;
+    width: 900px; 
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 8px 5px 15px 5px hsl(226, 58%, 16%); 
+    border-radius: 10px;   
+    margin: auto; 
+    margin-bottom: 20px; 
+    font-size: 20px;
+    }
+    
+
 
 .media {
     margin-bottom: 20px;
@@ -86,7 +121,7 @@ header {
 
 .sci {
     width: 600px; 
-    height: 400px;
+    height: 425px;
     padding: 20px;
     box-sizing: border-box;
     background-color: #fff;
@@ -147,3 +182,13 @@ header {
     }
 
 
+.img-resize3 img {   
+        width: 500px;  
+        height: 500px;
+        }
+    
+        
+.img-resize4 img {   
+            width: 500px;  
+            height: 500px;
+        }
