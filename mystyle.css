@@ -6,6 +6,10 @@ body, h2, p {
     padding: 0;
 }
 
+h2 {
+    color : #111c40;
+}
+
 
 body {
     line-height: 1.7;
@@ -80,10 +84,31 @@ header {
     margin-bottom: 20px; 
 }
 
+.sci {
+    width: 600px; 
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 8px 5px 15px 5px hsl(226, 58%, 16%); 
+    border-radius: 10px;   
+    margin: auto; 
+    margin-bottom: 20px; 
+}
+
+
+#scitu
+{
+    width: 500px;
+    height: 325px;
+    border: 2px solid #291200;
+    padding: 20px;
+}
+
 #pooad
 {
     width: 300px;
-    height: 325px;
+    height: 350px;
     border: 2px solid #291200;
     padding: 20px;
 }
